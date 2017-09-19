@@ -11,5 +11,7 @@
  * file per style scope.
  *
  *= require_self
- *= require bootstrap
+ *= require bootstrap-sprockets
  */
+ @import “bootstrap-sprockets”;
+ @import “bootstrap”;
