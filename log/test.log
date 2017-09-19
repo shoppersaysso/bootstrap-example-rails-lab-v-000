@@ -310,3 +310,27 @@ Started GET "/" for 127.0.0.1 at 2017-09-19 00:42:35 +0000
 Processing by HomeController#index as HTML
   Rendered home/index.html.erb within layouts/application (0.1ms)
 Completed 200 OK in 3ms (Views: 2.4ms)
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:43:24 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.3ms)
+Completed 500 Internal Server Error in 385ms
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:43:24 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 4ms
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:43:24 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 3ms
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:43:24 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 4ms
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:43:24 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 3ms
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:43:24 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 500 Internal Server Error in 5ms
