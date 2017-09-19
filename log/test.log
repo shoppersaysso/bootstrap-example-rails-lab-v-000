@@ -409,3 +409,24 @@ Completed 500 Internal Server Error in 5ms
 Started GET "/" for 127.0.0.1 at 2017-09-19 00:46:04 +0000
 Processing by HomeController#index as HTML
   Rendered home/index.html.erb within layouts/application (4.2ms)
+Completed 200 OK in 590ms (Views: 570.6ms)
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:46:05 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.9ms)
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:46:05 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 2ms (Views: 1.9ms)
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:46:05 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 3ms (Views: 1.9ms)
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:46:05 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.8ms)
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:46:05 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.2ms)
