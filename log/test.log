@@ -46,3 +46,6 @@ Started GET "/" for 127.0.0.1 at 2017-09-19 00:27:30 +0000
 Processing by HomeController#index as HTML
   Rendered home/index.html.erb within layouts/application (0.0ms)
 Completed 200 OK in 13ms (Views: 12.1ms)
+Started GET "/" for 127.0.0.1 at 2017-09-19 00:30:45 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (3.6ms)
